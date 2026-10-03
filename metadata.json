@@ -1,0 +1,8 @@
+{
+  "name": "GestorGastos",
+  "description": "Aplicación minimalista para gestionar tus gastos diarios, ver el total gastado y registrar nuevos gastos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

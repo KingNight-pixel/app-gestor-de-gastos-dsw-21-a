@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GestorGastos</string>
+    <string name="title_gestorgastos">GestorGastos</string>
+    <string name="no_expenses_title">Aún no hay gastos.</string>
+    <string name="no_expenses_subtitle">Toca + para agregar uno.</string>
+    <string name="total_spent_label">Total gastado</string>
+    <string name="settings_title">Configuración</string>
+    <string name="add_expense_title">Agregar gasto</string>
+    <string name="edit_expense_title">Editar gasto</string>
+    <string name="description_label">Descripción</string>
+    <string name="amount_label">Monto</string>
+    <string name="category_label">Categoría</string>
+    <string name="date_label">Fecha</string>
+    <string name="save_button">Guardar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="delete_button">Eliminar</string>
+</resources>
