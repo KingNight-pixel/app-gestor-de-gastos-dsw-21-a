@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Reglas de ProGuard (no necesarias para este proyecto)
+=======
 # Add project specific ProGuard rules here.
 # You can control the set of applied configuration files using the
 # proguardFiles setting in build.gradle.
@@ -19,3 +22,4 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+>>>>>>> 9a72b8bb014079bca13b61a6f59985724b32bfa8

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
+    <style name="Theme.GestorGastos" parent="android:Theme.Material.Light.NoActionBar" />
+=======
     <style name="Theme.MyApplication" parent="android:Theme.DeviceDefault.NoActionBar" />
+>>>>>>> 9a72b8bb014079bca13b61a6f59985724b32bfa8
 </resources>

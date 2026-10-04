@@ -1,4 +1,7 @@
 <resources>
+<<<<<<< HEAD
+    <string name="app_name">Gestor de Gastos</string>
+=======
     <string name="app_name">GestorGastos</string>
     <string name="title_gestorgastos">GestorGastos</string>
     <string name="no_expenses_title">Aún no hay gastos.</string>
@@ -14,4 +17,5 @@
     <string name="save_button">Guardar</string>
     <string name="cancel_button">Cancelar</string>
     <string name="delete_button">Eliminar</string>
+>>>>>>> 9a72b8bb014079bca13b61a6f59985724b32bfa8
 </resources>
